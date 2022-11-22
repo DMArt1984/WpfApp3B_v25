@@ -1,0 +1,5 @@
+﻿server=localhost\SQLEXPRESS;Trusted_Connection=yes;database=Box;connection timeout=30
+Groups
+Panels
+Info
+1000-800
